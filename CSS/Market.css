@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(to right, #2272FF , #00FFFF);
+}
+div {
+    border-radius: 5px;
+    background-image: linear-gradient(to right, #7e22ff , #7bff00)
+}
+div:hover {
+    transform: scale(0.5);
+    transition: 2s;
+}
+
